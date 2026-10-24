@@ -1,0 +1,27 @@
+{
+    "generated_at": "2026-10-24T10:48:32.762442+00:00",
+    "total_tasks": 2,
+    "pending": 0,
+    "in_progress": 2,
+    "completed": 0,
+    "high_priority": 1,
+    "overdue": 0,
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Clean dataset",
+            "description": "Handle missing values and duplicates",
+            "status": "in_progress",
+            "created_at": "2026-10-24T10:25:59.497979+00:00",
+            "priority": "high",
+            "deadline": "2026-10-30"
+        },
+        {
+            "id": 3,
+            "title": "Clean Dataset",
+            "description": "Remove missing values and duplicate records",
+            "status": "in_progress",
+            "created_at": "2026-10-24T10:29:08.812198+00:00"
+        }
+    ]
+}

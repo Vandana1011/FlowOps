@@ -1,0 +1,39 @@
+{
+    "project_name": "FlowOps",
+    "tagline": "AI Workflow Automation Server",
+    "description": "A Python-based task management server built with FastMCP to expose workflow operations as callable tools.",
+    "technology_stack": [
+        "Python",
+        "FastMCP",
+        "Pandas",
+        "Matplotlib",
+        "JSON",
+        "CSV"
+    ],
+    "server_tools": [
+        "create_task",
+        "list_tasks",
+        "get_task",
+        "update_task_status",
+        "delete_task",
+        "search_tasks",
+        "set_task_priority",
+        "set_task_deadline"
+    ],
+    "notebook_features": [
+        "Task filtering",
+        "Task summary",
+        "CSV export",
+        "JSON backup and restore",
+        "Deadline report",
+        "Activity log",
+        "Task visualization",
+        "Automated tests"
+    ],
+    "automated_tests": {
+        "total": 6,
+        "passed": 6,
+        "failed": 0
+    },
+    "generated_at": "2026-10-24T10:51:11.677690+00:00"
+}

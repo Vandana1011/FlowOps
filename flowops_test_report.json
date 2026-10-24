@@ -1,0 +1,35 @@
+{
+    "project": "FlowOps - AI Workflow Automation Server",
+    "test_run_time": "2026-10-24T10:50:30.344378+00:00",
+    "total_tests": 6,
+    "passed": 6,
+    "failed": 0,
+    "errors": 0,
+    "status": "PASSED",
+    "tests": [
+        {
+            "name": "test_create_task",
+            "status": "PASSED"
+        },
+        {
+            "name": "test_list_tasks",
+            "status": "PASSED"
+        },
+        {
+            "name": "test_search_tasks",
+            "status": "PASSED"
+        },
+        {
+            "name": "test_set_task_deadline",
+            "status": "PASSED"
+        },
+        {
+            "name": "test_set_task_priority",
+            "status": "PASSED"
+        },
+        {
+            "name": "test_update_task_status",
+            "status": "PASSED"
+        }
+    ]
+}
